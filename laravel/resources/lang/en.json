@@ -1,0 +1,8 @@
+{
+    "profile-information-updated": "Profile Updated",
+    "password-updated": "Password Updated",
+    "recovery-codes-generated": "Recovery codes generated successfully",
+    "two-factor-authentication-enabled": "2FA enabled. Please finish configuring two factor authentication below.",
+    "two-factor-authentication-disabled": "2FA disabled",
+    "two-factor-authentication-confirmed": "2FA confirmed"
+}
